@@ -1,6 +1,5 @@
 # GitHub-experience
-_* GitHub experience and compare with sourceforge_
-
+GitHub experience and compare with sourceforge
 *purpose*: to find github good use
 *content*: 
 - status

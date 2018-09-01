@@ -1,8 +1,8 @@
 # GitHub-experience
-GitHub experience and compare with sourceforge
-*purpose*: to find github good use
-*content*: 
+
+**purpose**: to find github good use and compare with sourceforge
+**content**: 
 - status
 - project template
 
-_oc2k: open code tool kit_
+**oc2k**: open code tool kit

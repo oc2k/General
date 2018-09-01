@@ -1,9 +1,9 @@
 **Top is latest**
 
 //01SEP2018 status
+ADD LINK: https://services.github.com/on-demand/github-cli/clone-repo-cli
 You’ll learn how to:
   (/)Create and use a repository
-  (o)Start and manage a new branch
-  (i)Make changes to a file and push them to GitHub as commits
-  (i)Open and merge a pull request
+  (o)Git clone from GitHub, link:https://github.com/oc2k/Pic16a1.git
+  -> state: open
 ----

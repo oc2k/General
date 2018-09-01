@@ -3,7 +3,7 @@
 **purpose**: to find github good use and compare with sourceforge
 
 **content**: 
-- status
+- diary
 - project template
 
 **oc2k**: open code tool kit

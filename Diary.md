@@ -1,0 +1,35 @@
+#topic
+- (/) clone
+- (/) pull,push,commit
+- (/) add file, folder and last hex file output
+
+#recode(Top is latest)
+
+* //01SEP2018 ***clone commandline***
+* 
+* cd ..
+* git clone https://github.com/oc2k/Pic16a1.git
+* cd pic16a1
+* git status
+* git push https://github.com/oc2k/Pic16a1.git
+* _https://mycyberuniverse.com/web/how-fix-fatal-authentication-failed-for-https-github-com.html_
+* Creating a GitHub personal access token.
+* 1. In the upper-right corner of any page, click your profile photo, then click Settings.
+* 2. In the left sidebar, click Developer settings.
+* 3. In the left sidebar, click Personal access tokens.
+* 4. Click Generate new token.
+* 5. Give your token a descriptive name.
+* 6. Select the scopes, or permissions, you’d like to grant this token. To use your token to access repositories from the command line, select repo.
+* 7. Click Generate token.
+* 8. Copy the token to your clipboard. For security reasons, after you navigate off the page, you will not be able to see the token again.
+* - Username: your_username
+* - Password: your_token
+* ...
+*
+* 
+* https://services.github.com/on-demand/github-cli/clone-repo-cli
+* https://github.com/oc2k/Pic16a1.git
+***
+
+
+#status: open

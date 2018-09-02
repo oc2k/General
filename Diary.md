@@ -6,7 +6,7 @@ Git experiment status
 | :o: | init | BASH |
 | :o: | clone | BASH |
 | :o: | pull | BASH |
-| :o: | push | BASH |
+| :o: | push | GUI,BASH |
 | :o: | commit | GUI |
 | :o: | add | GUI |
 | :walking: | ... |   |
@@ -15,26 +15,25 @@ Git experiment status
 * - environment: window xp
 * - Git version: 2.10.0.windows.1 
 
-#clone
+#clone (pic16a1)
 
 | command  | response  | remark  |
 |---|---|---|
 | $ cd .. |   |   |
 | $ git clone https://github.com/oc2k/Pic16a1.git/ |   |   |
+| $ cd pic16a1 |   |   |
 | |home-8e61db0dbb MINGW32 /c (master) </br> Cloning into 'Pic16a1'... </br> remote: Counting objects: 32, done. </br> remote: Compressing objects: 100% (27/27), done. </br> remote: Total 32 (delta 10), reused 2 (delta 1), pack-reused 0 </br> Unpacking objects: 100% (32/32), done. | |
 |   |   |   |
+| $ git push https://github.com/oc2k/Pic16a1.git |   |   |
+| fill in username |   |   |
+| fill in token (see below) |   |   |
+
 
 
 
 
 # Recode
-* //01SEP2018 ***clone commandline***
-* 
-* cd ..
-* git clone https://github.com/oc2k/Pic16a1.git
-* cd pic16a1
-* git status
-* git push https://github.com/oc2k/Pic16a1.git
+* //01SEP2018 ***push fail problem***
 * _https://mycyberuniverse.com/web/how-fix-fatal-authentication-failed-for-https-github-com.html_
 * Creating a GitHub personal access token.
 * 1. In the upper-right corner of any page, click your profile photo, then click Settings.

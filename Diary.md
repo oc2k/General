@@ -1,10 +1,21 @@
-#topic
-- (/) clone
-- (/) pull,push,commit
-- (/) add file, folder and last hex file output
+Git experiment status
+====
 
-#recode(Top is latest)
+| status  | commands  | GUI/BASH  |
+|---|---|---|
+| :o: | init | BASH |
+| :o: | clone | BASH |
+| :o: | pull | BASH |
+| :o: | push | BASH |
+| :o: | commit | GUI |
+| :o: | add | GUI |
+| :walking: | ... |   |
 
+* Remark
+* - environment: window xp
+* - Git version: 2.10.0.windows.1 
+
+# Recode
 * //01SEP2018 ***clone commandline***
 * 
 * cd ..

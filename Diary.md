@@ -15,6 +15,23 @@ Git experiment status
 * - environment: window xp
 * - Git version: 2.10.0.windows.1 
 
+#clone
+
+| command  | response  | remark  |
+|---|---|---|
+| $ cd .. |   |   |
+| $ git clone https://github.com/oc2k/Pic16a1.git/ |   |   |
+| |Jian'an@home-8e61db0dbb MINGW32 /c (master) | |
+|	|Cloning into 'Pic16a1'... | |
+|	|remote: Counting objects: 32, done. | |
+|	|remote: Compressing objects: 100% (27/27), done. | |
+|	|remote: Total 32 (delta 10), reused 2 (delta 1), pack-reused 0 | |
+|	|Unpacking objects: 100% (32/32), done. | |
+|   |   |   |
+
+
+
+
 # Recode
 * //01SEP2018 ***clone commandline***
 * 

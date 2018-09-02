@@ -24,9 +24,8 @@ Git experiment status
 | $ cd pic16a1 |   |   |
 | |home-8e61db0dbb MINGW32 /c (master) </br> Cloning into 'Pic16a1'... </br> remote: Counting objects: 32, done. </br> remote: Compressing objects: 100% (27/27), done. </br> remote: Total 32 (delta 10), reused 2 (delta 1), pack-reused 0 </br> Unpacking objects: 100% (32/32), done. | |
 |   |   |   |
-| $ git push https://github.com/oc2k/Pic16a1.git |   |   |
-| fill in username |   |   |
-| fill in token (see below) |   |   |
+| $ git push https://github.com/oc2k/Pic16a1.git </br> fill in username </br> fill in token |   |   |
+|   |   |   |
 
 
 

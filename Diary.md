@@ -40,6 +40,7 @@ Git experiment status
 * 
 * https://services.github.com/on-demand/github-cli/clone-repo-cli
 * https://github.com/oc2k/Pic16a1.git
+* https://gist.github.com/rxaviers/7360908 (markdown emotions on GitHub)
 ***
 
 

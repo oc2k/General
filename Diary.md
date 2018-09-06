@@ -19,6 +19,7 @@ Git experiment status
 
 | command  | response  | remark  |
 |---|---|---|
+| create new Pic16a1 folder </br> right click it and select Git Bash </br> -- the folder is empty |   |   |
 | $ cd .. |   |   |
 | $ git clone https://github.com/oc2k/Pic16a1.git/ |   |   |
 | $ cd pic16a1 |   |   |

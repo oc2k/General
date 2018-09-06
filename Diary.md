@@ -15,11 +15,11 @@ Git experiment status
 * - environment: window xp
 * - Git version: 2.10.0.windows.1 
 
-#clone (pic16a1)
+# clone (pic16a1)
 
 | command  | response  | remark  |
 |---|---|---|
-| create new Pic16a1 folder </br> right click it and select Git Bash </br> -- the folder is empty |   |   |
+| - create new Pic16a1 folder </br> - right click it and select Git Bash </br> (note: the folder is empty) |   |   |
 | $ cd .. |   |   |
 | $ git clone https://github.com/oc2k/Pic16a1.git/ |   |   |
 | $ cd pic16a1 |   |   |

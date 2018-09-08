@@ -1,12 +1,9 @@
 # GitHub-experience
 
 
-**purpose**: to find github good use and compare with sourceforge
+**purpose**: git experiment recode
 
-**content**: 
-- diary
-- project template
-
+**content**: General diary and code environment
 
 
 oc2k: open code tool kit

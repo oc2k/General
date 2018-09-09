@@ -46,6 +46,8 @@ Git experiment status
 * 8. Copy the token to your clipboard. For security reasons, after you navigate off the page, you will not be able to see the token again.
 * - Username: your_username
 * - Password: your_token
+*
+* //09SEP2018 ***added mla data *** for Pic18a1
 * ...
 *
 * 

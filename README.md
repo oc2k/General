@@ -1,9 +1,14 @@
 # GitHub-experience
 
 
-**purpose**: git experiment recode
+**purpose**: 
+1. git experiment recode
+2. general info and tooling
 
-**content**: General diary and code environment
+**content**: 
+1. General diary
+2. code environment
+3. mla (microchip libraries for applications)
 
 
 oc2k: open code tool kit

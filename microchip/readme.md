@@ -1,0 +1,2 @@
+- copy from c:\microchip_solutions_v2013-02-15\microchip
+- recommend copy to c:\pic\microchip
